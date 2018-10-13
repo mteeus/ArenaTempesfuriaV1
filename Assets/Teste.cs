@@ -12,5 +12,6 @@ public class Teste : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 		//teste de arquivos //
+		//segundo teste//
 	}
 }
