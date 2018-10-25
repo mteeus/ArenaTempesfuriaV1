@@ -9,7 +9,7 @@ public class Bola : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		
+	
 		sorteio=Ramdom.Range(0,10); //mínimo e máximo do sorteio
 sorteioY=Ramdom.Range(0.02f, -0.02f); //cima ou baixo
 
